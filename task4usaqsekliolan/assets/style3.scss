@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style-type: none;
+    font-family: 'Roboto', sans-serif;
+}
+#main{
+background-image: url(/task4usaqsekliolan/iamges/baby-shower-background-illustration-ai-generative-free-photo.jpg);
+padding:30px;
+
+}
+.container{
+    
+    cursor: pointer;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 160px;
+}
+.h1{
+    color: white;
+    margin-bottom: 40px;
+}
+.h2{
+    width: 350px;
+}
+.h3{
+    margin-bottom: 40px;
+}
+.button{
+    color: white;
+    background-color: blue;
+    height: 40px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius:5px ;
+    border-left: none;
+}
+.form{
+    display: flex;
+    padding-bottom: 30px;
+}
+.input{
+    height: 40px;
+    width: 300px;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+    border-right: none;
+}
+.p{
+    width: 370px;
+    padding-bottom: 30px;
+}
+.ul{
+    display: flex;
+    gap: 34px;
+}
+.nothing{
+    margin-bottom: 82px;
+}
